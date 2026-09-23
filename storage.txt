@@ -1,1 +1,2 @@
 This file demonstrates Git synchronization between the host and Ubuntu VM.
+This change was made on the Windows host.
